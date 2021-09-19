@@ -1,0 +1,7 @@
+.img {
+    display: flex;
+    justify-content: center;
+}
+#selfphoto {
+    width: 50%;
+}
